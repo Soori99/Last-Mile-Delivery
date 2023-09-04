@@ -1,6 +1,4 @@
 # Last-Mile-Delivery
-Pickup, Delivery and Installation Vehicle Routing Problem with Crew Allocation
-
 Novel Pickup, Delivery and Installation Vehicle Routing Problem with Crew Allocation using Mixed Integer Linear Programming using ILOG CPLEX solver
 
 Implemented variants of the Vehicle Routing Problem:
